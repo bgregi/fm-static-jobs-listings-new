@@ -1,0 +1,69 @@
+/* ## Colors
+### Primary
+- Desaturated Dark Cyan: hsl(180, 29%, 50%)
+### Neutral
+- Light Grayish Cyan (Background): hsl(180, 52%, 96%)
+- Light Grayish Cyan (Filter Tablets): hsl(180, 31%, 95%)
+- Dark Grayish Cyan: hsl(180, 8%, 52%)
+- Very Dark Grayish Cyan: hsl(180, 14%, 20%)
+
+### Body Copy
+- Font size: 15px
+
+### Headings
+- Family: [Spartan](https://fonts.google.com/specimen/Spartan)
+- Weights: 500, 700 */
+
+@font-face {
+  font-family: Spartan-Variable;
+  src: url(other/Spartan-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: Spartan-Bold;
+  src: url(other/static/Spartan-Bold.ttf);
+}
+
+body {
+  background-color: hsl(180, 52%, 96%);
+  font-size: 15px;
+  font-family: Spartan-Variable, sans-serif;
+}
+
+header {
+  height: 120px;
+  background-color: hsl(180, 29%, 50%);
+  background-image: url(images/bg-header-desktop.svg);
+  margin-bottom: 70px;
+}
+
+main {
+  margin: 0 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h3 {
+  font-family: Spartan-Bold, sans-serif;
+}
+
+@media only screen and (max-width: 1240px) {
+  body {
+    font-size: 13px;
+  }
+  
+  header {
+    height: 155px;
+    background-position-x: -3730px;
+    /* background-position-y: 10px; */
+    margin-bottom: 50px;
+  }
+  
+  main {
+    margin: 0 25px;
+
+    display: flex;
+    flex-direction: column;
+  }
+}

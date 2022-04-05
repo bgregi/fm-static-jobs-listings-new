@@ -1,0 +1,9 @@
+h3 {
+    margin: 10px 0 8px 0;
+    color: hsl(180, 14%, 20%);
+}
+
+h3:hover {
+    color: hsl(180, 29%, 50%);
+    cursor: pointer;
+}

@@ -1,0 +1,44 @@
+.whole-button {
+    display: flex;
+    align-items: center;
+    color: hsl(180, 29%, 50%);
+
+    margin: 0 10px;
+}
+
+.main-button {
+    background-color: hsl(180, 52%, 96%);
+    padding: 8px 5px 4px 5px;
+    border-radius: 5px 0 0 5px;
+}
+
+.close-button {
+    display: flex;
+    align-items: center;
+    background-color: hsl(180, 29%, 50%);
+    padding: 7.5px 8px 7.5px 8px;
+    border-radius: 0 5px 5px 0;
+}
+
+.x-button {
+    width: 15px;
+    height: 15px;
+}
+
+.close-button:hover {
+    background-color: hsl(180, 14%, 20%);
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 1240px) {
+    .whole-button {
+        margin: 12px 0px 12px 10px;
+    }
+    
+    .main-button {
+        background-color: hsl(180, 52%, 96%);
+        padding: 8px 5px 4px 5px;
+        border-radius: 5px 0 0 5px;
+    }
+
+}
