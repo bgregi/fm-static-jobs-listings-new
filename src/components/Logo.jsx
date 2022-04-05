@@ -48,6 +48,7 @@ export default function Logo(props) {
         case 10 :
             logo = logoTheAirFilterCompany
             break
+        default:
     }
 
     return <div className="logo">
