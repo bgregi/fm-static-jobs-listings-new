@@ -27,14 +27,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/bgregi/static-jobs-listings-new](https://github.com/bgregi/static-jobs-listings-new)
 - Live Site URL: [https://bgregi.github.io/static-jobs-listings-new/](https://bgregi.github.io/static-jobs-listings-new/)
 
 ### Built with
 
 - CSS Flexbox
 - [React](https://reactjs.org/) - JS library
-- [Styled Components](https://styled-components.com/) - For styles
 
 ## Author
 
