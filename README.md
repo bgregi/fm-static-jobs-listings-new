@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/bgregi/static-jobs-listings-new](https://github.com/bgregi/static-jobs-listings-new)
-- Live Site URL: [https://bgregi.github.io/static-jobs-listings-new/](https://bgregi.github.io/static-jobs-listings-new/)
+- Solution URL: [https://github.com/bgregi/fm-static-jobs-listings-new](https://github.com/bgregi/fm-static-jobs-listings-new)
+- Live Site URL: [https://bgregi.github.io/fm-static-jobs-listings-new/](https://bgregi.github.io/fm-static-jobs-listings-new/)
 
 ### Built with
 
