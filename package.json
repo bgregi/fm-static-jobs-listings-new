@@ -1,7 +1,7 @@
 {
-  "homepage": "https://bgregi.github.io/static-jobs-listings-new",
   "name": "jobs",
   "version": "0.1.0",
+  "homepage": "https://bgregi.github.io/fm-static-jobs-listings-new/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
