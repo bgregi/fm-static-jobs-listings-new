@@ -68,15 +68,15 @@ self.__precacheManifest = [
     "url": "/static-jobs-listings-new/static/media/Spartan-Bold.776b89b4.ttf"
   },
   {
-    "revision": "db2678ac13d449eb19ffadef7c0eb44f",
-    "url": "/static-jobs-listings-new/static/media/Spartan-VariableFont_wght.db2678ac.ttf"
-  },
-  {
     "revision": "6e2f7196c0644447b6887a48a265bdb1",
     "url": "/static-jobs-listings-new/static/media/bg-header-desktop.6e2f7196.svg"
   },
   {
-    "revision": "02599f5f6a099518649b90e6cddb8d70",
+    "revision": "db2678ac13d449eb19ffadef7c0eb44f",
+    "url": "/static-jobs-listings-new/static/media/Spartan-VariableFont_wght.db2678ac.ttf"
+  },
+  {
+    "revision": "8c9c271fd68a9e032c885d7dc92ac44b",
     "url": "/static-jobs-listings-new/index.html"
   }
 ];
